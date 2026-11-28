@@ -16,5 +16,5 @@ Apliikasi NaYaNiDis adalah aplikasi penilainan (rating) berbasis website mobile 
 2.	Merek (Trademark):
 ○	Nama Brand: NaYaNiDis
 <br><br>○	Logo & Elemen Visual: Titik-titik yang dihubungkan oleh garis dapat melambangkan koneksi, kolaborasi, dan hubungan antara berbagai ide. Setiap titik memiliki peran dalam membangun satu kesatuan yang lebih besar. Lalu tulisan NaYaNiDis merepresentasikan nama perancang Nabhan, Cahya, Rania, Disti.
-<br><br><img width="200" height="200" alt="IMG-20261128-WA0009.jpg" scr="README.md"/>
+<br><br><img width="200" height="200" alt="IMG-20261128-WA0009.jpg" scr="https://github.com/disticahyani/TUGAS-LISENSI-HAKI-">
 <br><br>○	Fungsi Perlindungan: Mencegah supaya tidak ada aplikasi ulasan lain yang memiliki logo yang sama dan nama yang sama dengan yang ini.
